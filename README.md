@@ -11,5 +11,4 @@ To use the reboot command install pm2
 ```npm install pm2 -g
 pm2 startup
 pm2 start bot.js
-pm2 monit```
-
+pm2 monit

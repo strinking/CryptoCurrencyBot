@@ -1,0 +1,13 @@
+{
+  "discord_token" : "",
+  "bot_controller": "Admin",
+  "NiceHash_api_key": "",
+  "NiceHash_ID": "",
+  "NiceHash_api_readonly": "",
+  "Coinbase_ID": "",
+  "Coinbase_secret": "",
+  "prefix" : "!",
+  "owner_id" : "",
+  "adminrolename" : "",
+  "modrolename" : "Moderator"
+}

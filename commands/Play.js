@@ -4,7 +4,7 @@ const request = require("request");
 const getYouTubeID = require("get-youtube-id");
 const fetchVideoInfo = require("youtube-info");
 
-const yt_api_key = ("AIzaSyBcAx32C6tn3C4LH6zuDdksF4ZFNw6P_aU");
+const yt_api_key = ("");
 
 var guilds = {};
 

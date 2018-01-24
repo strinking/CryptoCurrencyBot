@@ -9,7 +9,7 @@ exports.run = async function (client, message, args) {
 exports.conf = {
   enabled: true,
   aliases: [``],
-  permLevel: 0
+  permLevel: 1
 };
 
 exports.help = {

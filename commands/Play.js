@@ -4,7 +4,7 @@ const request = require("request");
 const getYouTubeID = require("get-youtube-id");
 const fetchVideoInfo = require("youtube-info");
 
-const yt_api_key = ("");
+const yt_api_key = ("AIzaSyBcAx32C6tn3C4LH6zuDdksF4ZFNw6P_aU");
 
 var guilds = {};
 
@@ -133,7 +133,7 @@ function skip_song(message) {
 exports.conf = {
   enabled: true,
   aliases: [`add, PLAY`],
-  permLevel: 0
+  permLevel: 1
 };
 
 exports.help = {

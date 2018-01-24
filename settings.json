@@ -1,13 +1,13 @@
 {
-  "discord_token" : "",
+  "discord_token" : "MzMwNjc0MTUzNDI0NDIwODc1.DUgwcQ.ie6EMKvkkIWANMLmnlOc6dMZ2zU",
   "bot_controller": "Admin",
-  "NiceHash_api_key": "",
-  "NiceHash_ID": "",
-  "NiceHash_api_readonly": "",
-  "Coinbase_ID": "",
-  "Coinbase_secret": "",
+  "NiceHash_api_key": "eb753e4c-38ff-8ed2-e30a-0c1866f10268",
+  "NiceHash_ID": "386758",
+  "NiceHash_api_readonly": "142ea2a2-6589-526b-49be-6b60a6639f20",
+  "Coinbase_ID": "3f668a7f1125e946d94092604802923be9c467291ef60f81f83571f88a12690d",
+  "Coinbase_secret": "adaf49bb00c35bf7d3e03f845928d75ba14656ea5c707b12f680a5bfc8edc912",
   "prefix" : "!",
-  "owner_id" : "",
+  "owner_id" : "163230277391482880",
   "adminrolename" : "",
   "modrolename" : "Moderator"
 }

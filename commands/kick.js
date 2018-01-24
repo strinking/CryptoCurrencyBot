@@ -5,7 +5,7 @@ exports.run = async function (client, message, args) {
   let member = message.mentions.members.first();
     if(!member) return message.channel.send("Mention a user to kick them!");
     member.kick();
-    message.channel.send("Successfully kicked user: " + `${member.user.tag}`);
+    message.channel.send("Successfully kicked user!" + `${member.user.tag}`);
 
   }
 

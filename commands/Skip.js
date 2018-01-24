@@ -27,7 +27,7 @@ message.reply("Join a voice channel!");
 exports.conf = {
   enabled: true,
   aliases: [``],
-  permLevel: 0
+  permLevel: 1
 };
 
 exports.help = {

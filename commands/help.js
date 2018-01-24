@@ -19,7 +19,7 @@ exports.run = (client, message, args) => {
 exports.conf = {
   enabled: true,
   aliases: ['h', 'halp', 'commands'],
-  permLevel: 0
+  permLevel: 1
 };
 
 exports.help = {
